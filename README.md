@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on designing/coding UI's
 - 📫 How to reach me: email isabelsufficool22@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm a design instructor at Henry Ford College!
+- ⚡ Fun fact: I'm a design mentor at the Apple Developer Academy Detroit!
 
 <!---
 isabelsuff/isabelsuff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
